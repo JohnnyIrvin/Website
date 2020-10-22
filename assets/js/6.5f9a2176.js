@@ -1,4 +1,4 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"6VaP":function(t,e,n){
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"6VaP":function(t,e,n){
 /*!
  * vue-typer v1.2.0
  * Copyright 2016-2017 Chris Nguyen
